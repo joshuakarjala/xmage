@@ -10,6 +10,6 @@
   	"url": "https://github.com/freeall/xmage.git"
   },
   "scripts": {
-    "postinstall": "mkdir bin && curl -L http://bit.ly/xmageLauncher034 > bin/launcher.jar"
+    "postinstall": "mkdir bin && curl -L http://bit.ly/xmageLauncher036 > bin/launcher.jar"
   }
 }
